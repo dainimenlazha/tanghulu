@@ -25,6 +25,8 @@ replay_pid*
 
 target/**
 
+system/**
+
 .idea/**
 
 *.iml
